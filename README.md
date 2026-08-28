@@ -2,7 +2,7 @@
 
 ### AI Enginner | Full Stack Developer
 
-##🚀 MY Projects
+## 🚀 MY Projects
 
 ### Aurastore - Ecommerce Website
 A Complete Working E Commerece Website with and dedicated Admin panel.
