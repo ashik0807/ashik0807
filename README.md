@@ -4,7 +4,7 @@
 
 ## 🚀 MY Projects
 
-### Aurastore - Ecommerce Website
+### 🛒 Aurastore - Ecommerce Website
 A Complete Working E Commerece Website with and dedicated Admin panel.
 Live Demo 🔗 : https://aurastore-six.vercel.app/
 
