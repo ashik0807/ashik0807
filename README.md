@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Ashik Mondal👋
 
-<!--
-**ashik0807/ashik0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Enginner | Full Stack Developer
 
-Here are some ideas to get you started:
+##🚀 MY Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Aurastore - Ecommerce Website
+A Complete Working E Commerece Website with and dedicated Admin panel.
+Live Demo 🔗 : https://aurastore-six.vercel.app/
+
+### 🤖 AI Data Analyst
+AI-Powered platform that analyzes Excel/CSV Files and generate inshights 
+Live Demo 🔗 : https://insightx-ai-swart.vercel.app/
