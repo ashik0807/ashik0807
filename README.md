@@ -1,6 +1,6 @@
 ## Hi, I'm Ashik Mondal👋
 
-### AI Enginner | Full Stack Developer
+### Full-Stack Developer & AI Engineer | React • Next.js • Node.js • Python • FastAPI | Building Scalable Web Applications & Intelligent Systems | Passionate about Clean Code & Modern UI/UX
 
 ## 🚀 MY Projects
 
